@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.well-known
+/.env
+/package-lock.json
+/build
+/.project
+/public/config.json
+/public/socket-admin
